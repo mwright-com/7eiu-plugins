@@ -10,26 +10,29 @@ block below, then rendered by `scripts/build_assessment.py`.
 ```yaml
 ---
 doc_type: full            # full | quick
-client: Clear RCM
-engagement: AI Readiness Training
-kicker: POST MORTEM       # or DIAGNOSTIC, or ASSESSMENT
+client: Verity Site Works
+engagement: Business Assessment
+kicker: ASSESSMENT        # or DIAGNOSTIC, or POST MORTEM
 subtitle: An evaluation using the 7 EIU principles
 prepared_for:
-  name: Brian Shields
-  title: Chief Executive Officer, Clear RCM
+  name: Dana Okonkwo
+  title: Owner, Verity Site Works
   address:
-    - 4500 Eldorado Pkwy, Ste 2100
-    - McKinney, TX 75070
+    - 2200 Silver Creek Way, Ste 4
+    - Reno, NV 89501
 prepared_by:
   name: Maurice Wright
   company: MWRIGHT INC
   city: Berkeley, CA
   email: mo@mwright.com
   phone: 510-453-2289
-focus_law: 7              # the law highlighted in the diagram
-goal_verbatim: "growth thesis"
+focus_law: 2              # the law highlighted in the diagram
+goal_verbatim: "not the bottleneck on every deliverable"
 ---
 ```
+
+The values above are filled in from the invented reference assessment, so the block reads
+as a real one would. Verity Site Works does not exist.
 
 `goal_verbatim` is the owner's own phrase for what they are trying to do. The closing
 sentence of the full document has to contain it.

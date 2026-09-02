@@ -147,26 +147,26 @@ First person and second person. "I", "you". Hedge to what you actually learned: 
 
 ## Worked example
 
-The benchmark's PRINCIPLE 2 section read in full:
+The reference assessment's PRINCIPLE 2 section reads in full:
 
-> Building the infrastructure that enables QA efficiency is in direct alignment with being considerate about how you deal with your client's problems.
+> Nothing about how a job gets set up, run, or checked exists anywhere except in your head and Rafa's. That is the finding the rest of this document keeps running into.
 >
-> Amanda finds the pattern of her work "therapeutic". Giving her access to AI tools, as well as training with them, I suspect, will greatly increase her performance in the area of QA. This will be a strong lever for handling increased growth.
+> Larger firms in your trade are not better surveyors. They have written procedure, which is what lets them put a crew in the field without the principal riding along. That is a pattern you can shrink. Not their org chart, not their software budget. One page: how a job gets set up, what the crew checks before leaving site, what gets verified before it reaches you. Write it from the next three jobs as they happen rather than from memory, because memory produces the version you wish were true.
 >
-> Joe is adept at AI. She is willing to learn and is proactive at doing so. Her needs are simply to have a guide that will keep her from feeling like she's on an island. When she runs into obstacles, having someone she can reliably go to in order to give her a larger perspective of what the AI tools are capable of will enhance her ability to build useful workflows. Further enabling growth by providing higher bandwidth processes for the office.
->
-> These are traits that will work effectively at the company's current size, as well as when the company grows.
+> Start with Tomasz. He has already built something for drafting cleanup and field notes, and looking at it costs you an hour. If it is good, it is the first piece of written method you have and it came free. If it is not, you have learned something about where he needs guidance. Either way the hour is worth more than the hour.
 
 What it is doing:
 
-- It names two real people by their first names, Amanda and Joe, both of whom came out of the intake.
-- Each name carries one observation the person would recognize as true about herself. Amanda finds the pattern therapeutic. Joe is proactive and teaches herself.
-- "Therapeutic" is Amanda's word, in quotation marks, kept verbatim.
-- It hedges. "I suspect" sits in the middle of the strongest claim in the section, which is what makes the claim usable.
-- Joe's paragraph names a specific need, a guide she can go to, rather than a training program or a platform.
-- Every observation is tied to the scaling question. Amanda's QA work is a lever for handling growth. Joe's workflows give the office higher bandwidth.
-- The closing sentence is the law stated plainly, that these traits work at this size and at the next one, and the law is never quoted at the reader.
-- It never names a tool. It says "AI tools" twice and stops there.
+- It opens on the owner's own words. "In your head and Rafa's" is how the owner described it in the interview, not a paraphrase.
+- The first paragraph says plainly that this finding recurs, which earns the other sections the right to reference it in a clause instead of re-arguing it.
+- The translation move is explicit and it names what NOT to copy. Larger firms have written procedure, so take the procedure and leave the org chart and the software budget. That is the law being used rather than stated.
+- The shrunk version is sized to this company. One page, three headings, not a quality management system.
+- "Write it from the next three jobs as they happen rather than from memory" is a method, not an instruction to try harder, and it names why memory fails.
+- The Tomasz paragraph names a real person from the intake with an observation the owner would recognize and could show him.
+- It prices the move. An hour. A recommendation with a cost attached reads as considered rather than as a pitch.
+- It handles both outcomes. Good work becomes the first written method; bad work teaches something about supervision. Neither branch wastes the hour.
+- It never names a tool. "AI tools" and what the capability does, and nothing more.
+- No section-closing flourish. The paragraph ends on its content.
 
 Now an illustration. **The company below is fictional, invented for this file, and must never be presented to a client as a real engagement.**
 

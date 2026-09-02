@@ -57,10 +57,11 @@ Probes to add:
 - Is there a customer who would take a call from a prospect and speak for you? Who?
 - When a customer complains, where does the complaint end up?
 
-The two questions the benchmark put to the client, which belong in the document verbatim when the intake does not answer them:
+The questions the reference assessment hands back, which belong in the document in this form when the intake does not answer them:
 
-- *Who are the success stories? Why?*
-- *What clients have been problematic? Why?*
+- *Which customers are the success stories, and why?*
+- *Which have been difficult, and why?*
+- *Which would switch at the first opportunity?*
 
 Mark every answer `[said]`, `[doc]`, `[observed]` or `[gap]`. A guess about who the happy customers probably are is a `[gap]`, and it goes into the document as a question.
 
@@ -118,7 +119,7 @@ The loss autopsy is the one the owner's mind fights. When something fails it hur
 
 The win autopsy used to be out of reach for a different reason. Understanding why a good month happened required analysis nobody had time for. Now the owner can sit down with the record of what happened and have a tool help find the pattern in an hour. The win stops being luck and becomes a recipe, and a recipe can be run again on purpose.
 
-For a company with no customer relationship software that can surface these stories, something workable can be up and running quickly. This is the recommendation the benchmark made, and it is worth making plainly. The system is no longer the hard part. A tool with no ego will sit down with the record and run the examination the owner's own mind fights, as often as the owner is willing to run it.
+For a company with no customer relationship software that can surface these stories, something workable can be up and running quickly. That is worth saying plainly to an owner whose whole customer record is an invoice history. The system is no longer the hard part. A tool with no ego will sit down with the record and run the examination the owner's own mind fights, as often as the owner is willing to run it.
 
 Never name an AI product, company, or version number. Write "AI tools", "these types of solutions", "a tool that can". A shipped draft naming one is a hard fail.
 
@@ -130,7 +131,7 @@ Length: two to four short paragraphs.
 
 Use the four moves from the benchmark spec, in whatever order the material wants: the observation, the law applied, the opportunity, the honest gap.
 
-This is very often the section where the honest gap belongs. Owners routinely have not looked at their customer base this way, and the interview will surface that within two questions. When it happens, do not fill the hole with a guess and do not skip the section. Say what you did learn. Say what you did not hear. Put the questions to the owner in italics and let him answer them. The benchmark did exactly this, and the section is stronger for it than a confident invention would have been.
+This is very often the section where the honest gap belongs. Owners routinely have not looked at their customer base this way, and the interview will surface that within two questions. When it happens, do not fill the hole with a guess and do not skip the section. Say what you did learn. Say what you did not hear. Put the questions to the owner in italics and let the owner answer them. The reference assessment does exactly this, and the section is stronger for it than a confident invention would have been.
 
 Vocabulary this law owns: hot and cold, temperature, the coin, the autopsy, the scale, warming and cooling, degree. Use one image with weight rather than all of them lightly.
 
@@ -155,33 +156,35 @@ First person and second person. "I", "you". Hedge to what you actually learned: 
 
 ## Worked example
 
-The benchmark's PRINCIPLE 5 section read in full:
+The reference assessment in `references/reference_assessment.md` is the target. Verity Site Works is a nine-person commercial land surveying firm in Reno, invented for teaching, and its PRINCIPLE 5 section reads in full:
 
-> Although I did learn about which EHR applications are "winning" and which are "losing", and, to some degree, how well the Clear RCM team works together, I didn't hear much discussion on that level in terms of client base.
+> You named Cordero + Ash before I finished asking. Repeat work, and they refer others. When I asked why, the answer was "we get along." I believe that. It is also the warmest relationship in the business, and nobody in the building can say what makes it warm, which means it cannot be run again on purpose with the next firm.
 >
-> - *Who are the success stories? Why?*
-> - *What clients have been problematic? Why?*
+> The cold end you can already feel. County work, slow to pay, scopes changing constantly. None of it is written anywhere, so it lives in the firm as a feeling about county jobs rather than a list of what changes and what each change costs you. A list you can act on.
 >
-> That discussion was largely limited to the type of EHR they were on. But, are there clients that are thrilled about Clear RCM services enough to be brand evangelists? Are there clients that would switch at the first opportunity?
+> Then there is the mixed-use bid. You never found out why you lost it, and you told me you assumed price. I do not know whether it was price, and neither do you. There is nothing stopping you from calling whoever ran that selection and asking.
 >
-> If the company does have superfans, tell that story both internally and externally. Likewise, if there are clients that you are not in close contact with, or that have been regularly sharing objections or problems, record that. Take action on them, then share these beneficial changes with existing clients and prospects as examples of how Clear RCM adapts.
+> What I did not learn:
 >
-> If you don't have CRM software that can currently bubble those stories to the surface, AI would be well-suited to getting something like that up-and-running quickly.
+> - *Which customers are the success stories, and why?*
+> - *Which have been difficult, and why?*
+> - *Which would switch at the first opportunity?*
+> - *Was the mixed-use job actually lost on price, and have you asked?*
 
 What it is doing:
 
-- It opens by crediting what was learned. The winning and losing EHR applications, and how the team works together, both get named before anything is said to be missing.
-- The honest gap is the spine of the section, not an aside at the end. The whole section is built on what was not heard.
-- The two italic questions are handed to the owner to answer. They are not answered, softened, or filled in with a plausible guess.
-- The words "winning" and "losing" are in quotation marks because they are the client's words for the EHR platforms, kept verbatim.
-- It names precisely where the discussion did happen, the type of EHR, so the reader can see the shape of what was missing rather than being told he missed something.
-- The two follow-up questions about brand evangelists and about switching at the first opportunity turn the gap into something the owner can go and check by Friday.
-- The superfan recommendation loops the finding back to Principle 4's garden. Law 5 owns the finding, which customers are the success stories and why, and Law 4 owns publishing them into the garden. The benchmark says tell the story internally and externally, which is the marketing law's work, and it does not re-argue the marketing law here.
-- The objection recommendation runs in three beats: record it, act on it, then show existing clients and prospects the change as evidence of how the company adapts.
-- Nothing is invented. There is no claim about a client the interview did not produce.
-- The closing sentence names a capability rather than a product. "AI would be well-suited" and nothing more specific, which is why the paragraph will still be true in five years.
+- It opens on the one customer the owner named unprompted. Named before the question was finished is itself the observation, and it is attributed to the moment it happened rather than asserted.
+- It credits the owner's answer before testing it. "We get along" is believed out loud, then held against the one thing it cannot do, which is be run again on purpose with the next firm.
+- The quoted words are the owner's, kept verbatim and kept short. The section does not translate "we get along" into something that sounds more professional.
+- This law's own image is used once and with weight. The warmest relationship, and the cold end. Temperature carries the section and no second image is brought in beside it.
+- The cold end is named by what it costs rather than by how it feels. Slow to pay, scopes changing constantly, none of it written down. The finding is the missing list, not the county.
+- It says what the difference between a feeling and a list is for. A feeling about county jobs cannot be acted on. A list of what changes and what each change costs can.
+- The lost bid stays an open question instead of becoming a diagnosis. The owner assumed price, and the assessor says plainly that neither of them knows. Declining to guess there is what makes the rest of the document credible.
+- The move on the lost bid is one phone call. Nothing to buy, nothing to build, and it can happen the same week.
+- The gap is the spine of the section and it is labelled as one. "What I did not learn" sits over four italic questions that are handed back rather than answered with something plausible.
+- The last question is the one the owner can go and settle, so the section ends on what happens next rather than on a summary line.
 
-Now an illustration. **The company below is fictional, invented for this file, and must never be presented to a client as a real engagement.**
+Now a second illustration, at a different size. **The company below is fictional, invented for this file the same way Verity Site Works is, drawn from no client, and it must never be presented to anyone as a real engagement.**
 
 Halvorsen Remodeling, a twelve-person residential remodeling contractor. Verdict: `working`.
 

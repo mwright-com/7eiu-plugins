@@ -131,7 +131,9 @@ Give this its own thinking, because it is the thing the owner is most likely to 
 
 Active marketing trades your team's time for a prospect's attention. Every conversation costs an hour that only ever gets spent once. A garden does not make that trade. The assets sit in the open, prospects take what is useful to them, and every unsolicited visit is a touchpoint that cost nobody an hour. A prospect is probably not going to close after the first contact. Give them a garden to select from and you get the multiple touchpoints anyway.
 
-Six slots. The benchmark used these, and they hold up across industries because they cover the six different jobs an asset can do.
+The garden hangs off one asset the company already owns, and that anchor is whatever exists rather than whatever would be ideal. In the reference assessment the anchor is the one-page contact form Verity Site Works already has, because it is the only thing in the open with the firm's name on it. An anchor that has to be built before anything can hang off it is not an anchor.
+
+Six slots. The reference assessment's asset menu runs along these lines, and the six hold up across industries because they cover the six different jobs an asset can do.
 
 | Slot | Asset | What it is for |
 |---|---|---|
@@ -142,7 +144,7 @@ Six slots. The benchmark used these, and they hold up across industries because 
 | CADENCE | A newsletter | A standing reason to be heard from |
 | ACCESS | Short explainer videos | One real question, answered fast |
 
-**How to fill the six slots for a company that is not the one in the benchmark.** The slot names are fixed. The assets are not. Choose each one from what this company actually knows and already has, which means the intake record decides the contents. PROOF comes from the work they have already done, so if Round 6 turned up a success story, that is the case study. AUTHORITY comes from numbers they already sit on, so a company that quotes two hundred jobs a year has pricing data nobody else in their market has. DIAGNOSTIC comes from the checklist in the owner's head, the one they run through in the first ten minutes of every site visit. CAPTURE is the thing they explain for free every week. CADENCE is whatever they can actually sustain, and monthly beats weekly if weekly is going to stop in March. ACCESS is the question they are tired of answering.
+**How to fill the six slots for a company that is not the one in the reference.** The slot names are fixed. The assets are not. Choose each one from what this company actually knows and already has, which means the intake record decides the contents. PROOF comes from the work they have already done, so if Round 6 turned up a success story, that is the case study. AUTHORITY comes from numbers they already sit on, so a company that quotes two hundred jobs a year has pricing data nobody else in their market has. DIAGNOSTIC comes from the checklist in the owner's head, the one they run through in the first ten minutes of every site visit. CAPTURE is the thing they explain for free every week. CADENCE is whatever they can actually sustain, and monthly beats weekly if weekly is going to stop in March. ACCESS is the question they are tired of answering.
 
 If a slot has nothing behind it, leave it empty and say so. An empty slot is a finding. A slot filled with something the company does not know is worse than an empty one, because it will show.
 
@@ -201,7 +203,7 @@ The law itself does not move when the tools do. Whatever the systems can do next
 
 The heading is `PRINCIPLE 4: Active & Passive`.
 
-Two to five short paragraphs. This is usually the longest section in the document, and the benchmark gave it five plus a bulleted list plus a full-page diagram. Length here is earned rather than padded: this law tends to produce more because the intake tends to produce more on it, and because the recommendations are concrete enough to fill space honestly.
+Two to five short paragraphs. This is usually the longest section in the document, and the reference gives it four plus a bulleted list plus a full-page diagram. Length here is earned rather than padded: this law tends to produce more because the intake tends to produce more on it, and because the recommendations are concrete enough to fill space honestly.
 
 Build it from the four moves: the observation, the law applied, the opportunity, the honest gap. Open on what the owner said about how they are currently getting customers. Their words, close to verbatim. If they told you they are scaling up outbound, open on that. If they told you referrals are the whole pipeline, open on that.
 
@@ -209,7 +211,7 @@ Name the half of the law they are already on before proposing the other half. Th
 
 Use an italic bulleted list when you name a menu of passive assets. The list is a menu rather than a plan, so keep it short, italicize it, and let it end open. It carries options, not the argument.
 
-Propose the full-page marketing garden diagram to the orchestrator when this law carries the biggest opportunity in the engagement, which it often does. Only one or two diagrams go into any assessment, so you propose and the orchestrator decides. The diagram is a header card naming the asset that already exists, a one-line statement of the law in the owner's own terms, the six labelled cards, and a footer line tying it back to the tools.
+Propose the full-page marketing garden diagram to the orchestrator when this law carries the biggest opportunity in the engagement, which it often does. Only one or two diagrams go into any assessment, so you propose and the orchestrator decides. The diagram is a header card naming the asset that already exists, which in the reference is the one-page contact form, a one-line statement of the law in the owner's own terms, the six labelled cards, and a footer line tying it back to the tools.
 
 Vocabulary this law owns: active and passive, the fire and the garden, hunter and gardener, seed and soil, reach and magnetism, planting, tending, the weak side, the loop.
 
@@ -234,38 +236,37 @@ You may name another law when a finding hands off to it, in one clause, without 
 
 ## Worked example
 
-The benchmark's PRINCIPLE 4 section, in full:
+The reference assessment in `references/reference_assessment.md` is the target. Verity Site Works is a nine-person commercial land surveying firm in Reno, invented for teaching, and its PRINCIPLE 4 section reads in full:
 
-> You mentioned that you are looking to scale up outbound communications, which is half of the fourth principle - Active Marketing. I would suggest that the importance of conveying the caring aspect of your team and services should weigh heavily in your messaging.
+> All of your new work comes from referrals and from you calling engineers you know. I would not touch that. You are not sending bulk mail to a bought list, you are calling people who have a reason to take the call, and that is active marketing done the way it is supposed to be done. It is also all of it.
 >
-> We also spoke briefly about how the market may be slowly filling up with individual service providers. There may be an opportunity to get ahead of this trend, and recruit people that can create a franchise-like brand experience using Clear RCM as the back-end. This is similar to the way the payment card industry leverages individual sales operators (ISOs) to approach and manage small businesses.
+> When I asked whether new customers would still find you if you stopped working for a month, you said the phone would ring for maybe two weeks off relationships, then nothing. Two weeks is a real measure of how good those relationships are. It is also a measure of how little is running while you are not. The half of this principle that works whether or not you are on the phone is currently a one-page contact form.
 >
-> The second half of this principle presents a big opportunity. Clear RCM's online assets that branch from the website has large potential for being a successful passive marketing environment. Introducing assets like
+> Everything you would put in the open, you already own. Assets worth considering:
 >
-> - *Case studies,*
-> - *Informational downloads,*
-> - *Evaluation/Assessment surveys,*
-> - *Local industry reports,*
-> - *A newsletter,*
-> - *Informational videos,*
+> - *A short write-up of one job you did for a repeat client, once you can say why it went well,*
+> - *A one-page guide to what changes in a county scope, and when it changes,*
+> - *Your own turnaround times, if the record is there to pull,*
+> - *A monthly note to the engineers and developers you already call,*
+> - *Two minutes on the question you get asked most in a first call,*
 > - *Etc.*
 >
-> can be used to complement the active marketing efforts. A prospect is probably not expected to close after the first contact, but by providing a "garden" of information for them to select from, Clear RCM would create the opportunity for multiple touchpoints that don't require a trade of time. These types of solutions are very much in alignment with what can be generated with AI tools.
+> None of that pays this month, which is why it has not happened in eleven years. Start one piece of it anyway, and only one, because you are already the bottleneck on every deliverable and a six-asset project is not something this firm has room for until Principle 2 moves. Start with the county scope guide. You already know that material cold and it is the thing your customers ask about most.
 
 What it is doing, line by line:
 
-- It opens on the owner's own words. "You mentioned" is the first phrase in the section, and the observation belongs to him rather than to the framework.
-- It names the half of the law the owner is already on, and names it as a half. "Which is half of the fourth principle" does the teaching in six words without stopping to define anything.
-- The messaging advice is not generic. It reaches back to the differentiator the owner himself named, the caring team, and points it at the outbound work already in motion.
-- The ISO comparison is a real, checkable industry practice. It is used to make one narrow point about a structure the owner could copy, and a reader who wanted to verify it could.
-- It hedges where the evidence is thin. "We spoke briefly." "May be slowly filling up." "There may be an opportunity." The confidence sits in the specifics rather than in the verbs.
-- The pivot is announced. "The second half of this principle presents a big opportunity" tells the reader the section is turning, which is what lets the paragraph before it stay short.
-- The asset list is italic and it ends in "Etc." That is deliberate. It is a menu the owner picks from, not a plan he has been handed, and the "Etc." keeps it open.
-- The word "garden" appears once, in quotes, in the owner's context. The image is used rather than explained.
-- The closing sentence ties the whole recommendation back to what the tools make possible, and does it without naming one. "These types of solutions" is doing the work that a product name would ruin.
-- Nothing in it was researched from outside the engagement except the ISO reference, and that one is checkable.
+- It opens on how the owner is actually getting customers today, in the owner's own terms. Referrals, and Dana calling engineers Dana already knows. The observation belongs to the intake rather than to the framework.
+- It credits the half that is already running, and credits it specifically. Not bulk mail to a bought list, but calls to people who have a reason to take the call. Naming what is good about it is what keeps the section from reading as a lecture.
+- "It is also all of it." One short sentence turns the credit into the finding without taking the credit back.
+- The month-off diagnostic is in the section with the answer verbatim. Two weeks off relationships, then nothing. The measure is the owner's, not the assessor's.
+- It reads those two weeks both ways. As evidence the relationships are real, and as a measure of how little runs while the owner is not working. One fact carries the praise and the problem.
+- It names the passive side by what actually exists. A one-page contact form. No adjective on it and no complaint about it, just the size of the thing.
+- The asset menu is italic, one line each, and it ends in *Etc.* It is a menu to pick from rather than a plan handed over, and the *Etc.* keeps it open.
+- Every asset on the menu is made of something the firm already owns: a job already delivered, county scopes already known cold, turnaround times already sitting in the record, the question already asked in every first call.
+- The recommendation is one asset rather than six, and the section says why in the same sentence. The owner is already the bottleneck on every deliverable, so the garden waits on Principle 2. A correct recommendation the owner has no room to start is the wrong place to begin.
+- It picks the first asset and gives the reason for that pick, then stops. Material the owner knows cold, and the thing customers ask about most. That is the month's move, and the rest of the garden is a season.
 
-**Illustration only. The company below is invented for teaching purposes. It is not a client and nothing in it happened.**
+**A second illustration, at a different size. The practice below is invented for teaching purposes, the same way Verity Site Works is. It is not a client, no part of it is drawn from one, and nothing in it happened.**
 
 A solo bookkeeping practice serving independent restaurants. Verdict `thin` on the passive side.
 
@@ -290,7 +291,7 @@ A solo bookkeeping practice serving independent restaurants. Verdict `thin` on t
 The five-part block from the chapter-skill contract:
 
 1. `verdict`: two verdicts, not one, because this law has two sides and a single word hides which one is broken. Return one verdict per side, each drawn from `strong`, `working`, `thin`, `not observed`, written as `thin (passive) / working (active)`. A company can be strong on one side and absent on the other. The orchestrator ranks this law on the weaker of the two.
-2. `section`: the prose for the full assessment, ready to sit under the `PRINCIPLE 4: Active & Passive` heading. Italic bullets where the benchmark would use them.
+2. `section`: the prose for the full assessment, ready to sit under the `PRINCIPLE 4: Active & Passive` heading. Italic bullets where the reference would use them.
 3. `quick_read`: two or three sentences, one observation and one opportunity, written fresh rather than cut down from the section.
 4. `opportunities`: the concrete moves you named, listed so the orchestrator can rank them and Principle 7 can walk them in order.
 5. `gaps`: what you could not assess, with the questions the owner should answer. These go in the document.

@@ -21,9 +21,11 @@ license: Proprietary. © MWRIGHT INC.
 You are running an engagement, not answering a question. Someone wants to know where
 their business has openings, and the seven laws are the instrument.
 
-The output has to be indistinguishable in kind from the assessment Maurice Wright wrote
-for Clear RCM. Read `references/benchmark_spec.md` before you write a single line of the
-document. It is the target and it settles most arguments about shape, length and tone.
+The output has to be indistinguishable in kind from the reference assessment in
+`references/reference_assessment.md`, an invented engagement written to the standard a
+real one has to hit. Read it, and read `references/benchmark_spec.md`, before you write a
+single line of the document. Together they are the target, and they settle most arguments
+about shape, length and tone.
 
 ---
 
@@ -166,8 +168,8 @@ given away.
 Follow the page-by-page anatomy in `references/benchmark_spec.md`. Templates and the
 document skeleton are in `references/output_templates.md`.
 
-Do not pad the thin sections to match the thick ones. Principle 1 getting one paragraph
-while Principle 4 gets five is honest and it is how the benchmark reads.
+Do not pad the thin sections to match the thick ones. Principle 3 getting two paragraphs
+while Principle 4 gets five is honest and it is how the reference assessment reads.
 
 ### 9. Voice pass
 
@@ -224,8 +226,8 @@ actually learned.
 
 **The document flatters.** An assessment that finds seven strengths and no openings is
 not an assessment. If the company really is strong on a law, say so in two sentences and
-name the one condition under which it would break, the way the benchmark does for
-Principle 3.
+name the one condition under which it would break, the way the reference assessment does
+for Principle 3.
 
 **A law gets applied to the wrong domain.** Marketing advice filed under Principle 3,
 consistency advice filed under Principle 4. The domain column in the contract settles it.

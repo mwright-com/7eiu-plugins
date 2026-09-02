@@ -3,8 +3,11 @@
 Eleven skills that interview a business owner, work each chapter of *7 Elemental,
 Immutable, Universal Truths* in turn, and write the assessment.
 
-This file covers what shipped, how to install it, how to run an engagement, and what to
-do when the output comes out wrong.
+This is the operator's manual. **If you just want to use the thing, read
+[`START-HERE.md`](START-HERE.md) instead.** This file is for changing how it works.
+
+It covers how the pieces fit, how the documents get built, and what to do when the output
+comes out wrong.
 
 ---
 
@@ -96,8 +99,8 @@ differentiator paragraph, seven principle sections of uneven length, up to two o
 diagrams, and a closing synthesis that walks the six earlier moves in order and ends on
 the owner's own words for their own goal.
 
-> **The sections are meant to be uneven.** In the Clear RCM document, Principle 1 is one
-> paragraph and Principle 4 is five plus a diagram. That is what was actually learned about
+> **The sections are meant to be uneven.** In the reference assessment, Principle 3 is two
+> paragraphs and Principle 4 is five plus a diagram. That is what was actually learned about
 > each. Padding them to matching length is the most common way one of these documents goes
 > wrong, and the scorer catches it.
 
@@ -135,13 +138,13 @@ Transparent PNG, trimmed to the glyph, and the layout scales it to 0.42 inches t
 
 ```json
 {
-  "anchor": "The Clear RCM website",
+  "anchor": "The one-page contact form",
   "law": "Active marketing trades your team's time for a prospect's attention. A garden does not.",
   "foot": "Every asset above is buildable with AI tools, and costs no calendar time.",
   "slots": [
-    {"asset": "Case studies",           "use": "Proof from a practice that looked like theirs."},
+    {"asset": "Case studies",           "use": "Proof from a job that looked like theirs."},
     {"asset": "Downloadable guides",    "use": "A guide they keep, with your name on it."},
-    {"asset": "Self-assessment surveys","use": "A score on their own billing operation."},
+    {"asset": "Self-assessment surveys","use": "A score on their own operation."},
     {"asset": "Local market reports",   "use": "Numbers for their market, not the nation's."},
     {"asset": "A newsletter",           "use": "A standing reason to be heard from."},
     {"asset": "Short explainer videos", "use": "One real question, answered fast."}
@@ -156,20 +159,20 @@ assets are chosen from what the company actually knows.
 
 ```yaml
 doc_type: full            # full | quick
-client: Clear RCM
-engagement: AI Readiness Training
-kicker: POST MORTEM
+client: Verity Site Works
+engagement: Business Assessment
+kicker: ASSESSMENT
 subtitle: An evaluation using the 7 EIU principles
 prepared_for:
-  name: Brian Shields
-  title: Chief Executive Officer, Clear RCM
+  name: Dana Okonkwo
+  title: Owner, Verity Site Works
 prepared_by:
   name: Maurice Wright
   company: MWRIGHT INC
   city: Berkeley, CA
   email: mo@mwright.com
 focus_law: 7              # the law tinted in the diagram
-goal_verbatim: "growth thesis"
+goal_verbatim: "not the bottleneck on every deliverable"
 ```
 
 `goal_verbatim` is the owner's own phrase for what they are trying to do. The closing
@@ -193,7 +196,7 @@ become a claim in the document.
 
 Gaps do not get dropped and they do not get filled in with a plausible guess. They go into
 the document as gaps, in italics, with the questions handed back to the owner. That move,
-which the Clear RCM document makes under Principle 5, is what makes the rest of it
+which the reference assessment makes under Principle 5, is what makes the rest of it
 believable.
 
 ### No tool names, ever
@@ -210,10 +213,10 @@ actually brought, whether the one outside citation is real, whether the diagram 
 the prose, whether every named staff observation is one the owner could show that person,
 and whether any recommendation carrying a real cost says so.
 
-> **The Clear RCM document scores 92, and it ships.** It is not a 96, and the rubric says
-> why rather than fudging it: Principle 1 is two sentences that would be true of any
-> company, and no recommendation in it names a cost. 92 is what a very good assessment
-> looks like. 90 is the gate. Nobody has hit 96 yet.
+> **The reference assessment scores 92, and it ships.** It is not a 96, and the rubric says
+> why rather than fudging it: Principle 3 mostly restates the framing paragraph, and only one
+> recommendation names what it costs. 92 is what a very good assessment looks like. 90 is
+> the gate. Nobody has hit 96 yet.
 
 ---
 

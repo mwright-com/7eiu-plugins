@@ -46,9 +46,9 @@ conversation.
 - Who is this addressed to, and where does the company sit? Name, title, company and
   mailing address. The cover page needs all four.
 
-Also ask, once: **what do you have that is not the product?** The benchmark's
-differentiator paragraph comes from this question. In the Clear RCM engagement the answer
-was a team that cares about each other, not only about clients.
+Also ask, once: **what do you have that is not the product?** The differentiator paragraph
+comes from this question. In the reference assessment the answer was "We turn things around
+fast and we actually pick up the phone. Engineers tell us that constantly."
 
 ---
 

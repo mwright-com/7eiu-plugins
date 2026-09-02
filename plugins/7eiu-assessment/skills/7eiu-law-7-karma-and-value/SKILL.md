@@ -18,11 +18,11 @@ This section does two things at once, and it is the only one of the seven that d
 
 **Job one, the assessment.** Read the company on the ledger, the same way the other six skills read theirs. Is the customer genuinely better off, or do they feel better off until they look closely? Is there money coming in that the customer would object to if they could see how it was earned? Is there a shortcut currently under consideration?
 
-**Job two, the synthesis.** Close the whole document. In the benchmark, Principle 7 introduced no new material at all. It opened `The previous 6 principles suggest the following:` and walked the six earlier recommendations in order, in a single paragraph, in the owner's own terms, ending on a forward-looking statement of belief about the goal the owner had named in the interview.
+**Job two, the synthesis.** Close the whole document. In the reference assessment, Principle 7 introduced no new material at all. It opened `The previous 6 principles suggest the following:` and walked the six earlier recommendations in order, in a single paragraph, in the owner's own terms, ending on a forward-looking statement of belief about the goal the owner had named in the interview.
 
 **Which one leads.** The test is one question: did the intake surface anything on the extraction side?
 
-If it did not, the synthesis leads. Say the company is clean on the ledger in one clause inside the opening line, then go straight to the six. This is the common case, because a business worth assessing is usually a business that is already giving more than it takes. The benchmark did exactly this. Its framing paragraph said the first six principles were already in place, and the seventh section then spent all of its length on the walk-through.
+If it did not, the synthesis leads. Say the company is clean on the ledger in one clause inside the opening line, then go straight to the six. This is the common case, because a business worth assessing is usually a business that is already giving more than it takes. The reference assessment did this with one variation worth copying. The owner had settled the ledger question himself, in a sentence flat enough to quote back to him, so it took one short paragraph ahead of the hand-off line and the rest of the section went to the walk-through.
 
 If it did, the value finding leads. Write it first, plainly, in its own paragraph, name the specific thing the owner told you, and then run the synthesis after it. Do not bury a shortcut inside the walk-through. Do not soften it into a general observation about the market either. The owner told you about it, which means they already know, and the useful thing you can do is say it once in the open and then show them the six moves that make it unnecessary.
 
@@ -128,8 +128,8 @@ Heading: `PRINCIPLE 7: Karma & Value`
 
 When the synthesis leads, the structure has three parts and nothing else.
 
-1. **The hand-off line.** One line that turns the document toward its close. The benchmark used `The previous 6 principles suggest the following:` and there is no reason to improve on it. If the company is clean on the ledger, that clause goes here, in the same sentence, and it does not get its own paragraph.
-2. **The walk-through paragraph.** One paragraph, in the owner's own terms, naming the six moves in law order, one after another. Principle 1 first, Principle 6 last. Short clauses. Use the owner's vocabulary verbatim, the way the benchmark used a client's own words. Do not label the principles by number inside the paragraph; the reader knows what order the document went in.
+1. **The hand-off line.** One line that turns the document toward its close. The reference assessment used `The previous 6 principles suggest the following:` and there is no reason to improve on it. If the company is clean on the ledger, that clause goes in the same sentence and does not get its own paragraph, unless the owner settled the question with a line worth quoting back to him. Then it gets one short paragraph ahead of the hand-off line and nothing more, the way the reference does.
+2. **The walk-through paragraph.** One paragraph, in the owner's own terms, naming the six moves in law order, one after another. Principle 1 first, Principle 6 last. Short clauses. Use the owner's vocabulary verbatim, the way the reference assessment used the owner's own words. Do not label the principles by number inside the paragraph; the reader knows what order the document went in.
 3. **The closing belief statement.** One sentence about the owner reaching the goal they named in the interview, in the owner's own words for that goal.
 
 The synthesis paragraph must not introduce anything the earlier sections did not already establish. No new opportunity, no new observation, no new gap. If something belongs in the document and is not in one of the first six sections, it goes back to the skill that owns it, not here. When you find yourself wanting to add a seventh item, that is the signal that a section upstream is incomplete.
@@ -163,22 +163,26 @@ First person and second person throughout. Short paragraphs. This is the most pr
 
 ## Worked example
 
-The benchmark's PRINCIPLE 7 section read in full:
+The reference assessment's PRINCIPLE 7 section, in full. Verity Site Works is invented, and so is everyone in it.
 
+> When I asked where you would be tempted to take a shortcut, you said "No. I stamp it, it's my license. That's the whole business." That settles the ledger question for a firm like this one, so I will spend the rest of this section on the other six.
+>
 > The previous 6 principles suggest the following:
 >
-> Start by caring. Increase QA efficiency, introduce tools to the team that they will accept and use, and keep Joe on the bleeding edge of what works best should add value in terms of scalability. Keep the team happy and maintain the morale that you've established. Supplement your campaign push with passive marketing assets. Evaluate your current customer relationships. Lastly, keep an eye on trends (also innovate some of your own). All of these actions are doable - now - and can use AI as a leverage once the principle direction is understood with clarity. And, through the lens of caring, I believe that Clear RCM will be able to easily achieve its growth thesis.
+> Say the outcome you gave me out loud to Rafa, Tomasz and Priya, and find out whether it comes back the same way. Get what is in your head and Rafa's onto paper, starting with how a job gets set up, run and checked, and look at what Tomasz has already built before you build anything next to it. Hold the fast turnaround and the picked-up phone, and understand that right now it is held by you personally touching everything. Put one thing in the open besides the contact form, so the two weeks of ringing phone you described is not the whole of what happens without you. Find out why Cordero + Ash keeps coming back, and make the call on the mixed-use job you lost. Then start watching the two firms advertising drone and lidar, and decide what it means rather than finding out from a bid sheet. All of it is startable this month, and the tools carry a real share of the labor on every piece once you have decided what you are actually making. I believe that gets you to the point where you are "not the bottleneck on every deliverable," and to a second crew "without the quality going sideways," which is how you put it to me.
 
-Map each clause back to where it came from:
+The opening paragraph settles the ledger and stops. The owner's refusal is quoted rather than summarized, the assessor agrees with it in half a sentence, and then says out loud what the rest of the section is going to be. No praise is attached to it and no lesson is drawn from it.
 
-- "Start by caring" is Principle 1. Intention before action, and the intention this company already has.
-- "Increase QA efficiency, introduce tools to the team that they will accept and use, and keep Joe on the bleeding edge" is Principle 2, compressed to one clause. That whole section was about two named people and the repeatable work they hold.
-- "Keep the team happy and maintain the morale that you've established" is Principle 3.
-- "Supplement your campaign push with passive marketing assets" is Principle 4, and it was the longest section in the document, reduced here to nine words.
-- "Evaluate your current customer relationships" is Principle 5.
-- "Lastly, keep an eye on trends (also innovate some of your own)" is Principle 6.
+Map each clause of the walk-through back to where it came from:
 
-Then note what else it does. The six are in law order and the reader can feel the document's own sequence in the sentence order. "All of these actions are doable - now -" is the practicality claim, and it earns its place because every one of the six was written to be startable. The closing sentence uses the owner's own phrase, growth thesis, which came out of the interview and appears elsewhere in the document. "I believe" is the hedge that keeps a forward-looking sentence a judgment rather than a promise. And nothing in the paragraph is new. Every clause points backward at a section the reader has already read.
+- "Say the outcome you gave me out loud to Rafa, Tomasz and Priya, and find out whether it comes back the same way" is Principle 1. The intention exists and it has never left the owner's head.
+- "Get what is in your head and Rafa's onto paper, starting with how a job gets set up, run and checked, and look at what Tomasz has already built before you build anything next to it" is Principle 2, and it is the longest clause because it was the heaviest finding in the document.
+- "Hold the fast turnaround and the picked-up phone, and understand that right now it is held by you personally touching everything" is Principle 3, strength and condition in one clause.
+- "Put one thing in the open besides the contact form, so the two weeks of ringing phone you described is not the whole of what happens without you" is Principle 4.
+- "Find out why Cordero + Ash keeps coming back, and make the call on the mixed-use job you lost" is Principle 5, two moves compressed into fourteen words.
+- "Then start watching the two firms advertising drone and lidar, and decide what it means rather than finding out from a bid sheet" is Principle 6.
+
+Then note what else it does. The six are in law order and the reader can feel the document's own sequence in the sentence order. "All of it is startable this month" is the practicality claim, and it earns its place because every one of the six was written to be startable. The closing sentence quotes the owner's own words for his own goal twice, "not the bottleneck on every deliverable" and "without the quality going sideways", both of them straight out of Round 9, and it says "which is how you put it to me" so the reader can hear that they are his. "I believe" is the hedge that keeps a forward-looking sentence a judgment rather than a promise. And nothing in the paragraph is new. Every clause points backward at a section the reader has already read.
 
 Now an illustration. **The company below is fictional, invented for this file, and must never be presented to a client as a real engagement.**
 

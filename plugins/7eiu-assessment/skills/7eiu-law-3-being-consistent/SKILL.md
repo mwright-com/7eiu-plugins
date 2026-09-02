@@ -123,7 +123,7 @@ Heading: `PRINCIPLE 3: Be Consistent`
 
 Length: one to three short paragraphs. Do not pad it to match the long sections. Three to six sentences a paragraph.
 
-Use the four moves from the benchmark, and not all four are required: the observation, attributed to where it came from; the law applied in its own terms without being quoted at the reader; the opportunity at the size the company actually is; the honest gap, written as italic questions.
+Use the four moves from the benchmark spec, and not all four are required: the observation, attributed to where it came from; the law applied in its own terms without being quoted at the reader; the opportunity at the size the company actually is; the honest gap, written as italic questions.
 
 Open on the observation, and where you can, open on the people. This law lives in what the team does every day, so the first sentence is usually something the owner told you about how the work gets done or who holds it. Two openings work well. One is the thing a customer gets every time, quoted back in the owner's words. The other is the moment the note breaks, named without drama. Do not open by defining consistency, and do not open with a compliment that has no observation under it.
 
@@ -152,25 +152,31 @@ You may name another law when a finding hands off to it. You may not argue that 
 
 ## Worked example
 
-The benchmark's PRINCIPLE 3 section read in full:
+The reference assessment in `references/reference_assessment.md` is the target. Verity Site Works is a nine-person commercial land surveying firm in Reno, invented for teaching, and its PRINCIPLE 3 section reads in full:
 
-> Because of the leadership within the office, in terms of tenure and genuine concern about how the business performs, consistency with your offering will only become an issue if growth is introduced faster than the tools that will enable it. This is good, because the act of embracing the possibility of more efficient solutions sets the tone going forward. Regarding the third principle, keep doing what you're doing. This act of stimulating progress in a way that is beneficial internally and externally in order to deliver consistent results across a variety of client types and infrastructure can set the bar for the industry. This may be what Clear RCM becomes known for.
+> Fast turnaround and a picked-up phone. That is the note, and engineers tell you about it constantly, which is how you know it is real rather than something you believe about yourself.
+>
+> It is held by two people's memory. That is fine at nine people and it breaks at fourteen, which is where a second crew puts you. The note will not survive by being cared about; it survives by being written down, which is Principle 2's work. Keep doing what you're doing, and understand that the thing keeping it consistent right now is that you personally touch every deliverable, which is the same fact you told me you want to stop being true.
 
 What it is doing, line by line:
 
-It opens on the observation, and the observation is about people rather than process. Tenure and genuine concern are things the author saw in the room, so they can carry the paragraph.
+It opens on the note itself, in the fewest words available. Fast turnaround and a picked-up phone is what Dana said engineers keep telling the firm, so the observation arrives already attributed and nobody has to be told what consistency means.
 
-It names one condition under which the note would break, growth arriving faster than the tools, and it does not invent a second one. There was no problem to report, so no problem was manufactured.
+The evidence is external and the section says so. Engineers tell you about it constantly is the reason this counts as a finding rather than a compliment, and the clause that follows says exactly that.
 
-"Keep doing what you're doing" is stated without apology and without a softening clause after it. That is a legitimate verdict and the document treats it as one.
+It names who holds the note. Two people's memory, meaning Dana's and Rafa's, which came out of the intake rather than being laid over it as a diagnosis.
 
-The law is used rather than quoted. The word consistency appears once. Nobody gets told what a frequency is.
+It puts a number on the breaking point. Fine at nine people, breaks at fourteen. That is the one condition under which the note goes, and no second condition gets invented to keep it company.
 
-The opportunity is sized to a company that is about to grow, and it is expressed in the client's own terms: a variety of client types and infrastructure.
+The number is tied to the owner's own plan. Fourteen is where a second crew puts the firm, so the breaking point is not hypothetical. It is the next thing Dana said the firm is going to do.
 
-It ends on a forward-looking possibility about reputation, which is exactly what this law is about over years, and not on a summary line.
+The handoff to Principle 2 is one clause. Written down, which is Principle 2's work. Law 3 owns the finding that the note is held by memory, Law 2 owns getting the method onto paper, and this section does not argue Law 2's case again.
 
-**An illustration. Bishop and Barrow is invented for teaching purposes. It is not a client, and nothing in it happened.** A two-location dog grooming business, verdict `thin`.
+"Keep doing what you're doing" is stated without apology and without a softening clause after it. There was no problem to report about the note itself, so no problem was manufactured.
+
+It closes by turning the affirmation back on the goal. What holds the note steady today is the owner touching every deliverable, which is the exact fact the owner asked to stop being true. The ending is content, not a takeaway.
+
+**A second illustration, at a different size. Bishop and Barrow is invented for teaching purposes, the same way Verity Site Works is. It is not a client, no part of it is drawn from one, and nothing in it happened.** A two-location dog grooming business, verdict `thin`.
 
 > You told me the Northgate shop and the Riverside shop do the same work, and then you told me that a customer who books a full groom at Riverside gets a nail trim included and at Northgate does not, because that is how Dee has always done it. Neither of those is wrong. What is missing is a decision about which one is the promise. Right now a customer who moves between your two shops gets two companies, and you are about to open a third.
 >

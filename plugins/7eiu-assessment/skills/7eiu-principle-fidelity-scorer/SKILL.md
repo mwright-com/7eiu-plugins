@@ -34,34 +34,34 @@ grounding, actionability and voice, renormalize those four to 100, and mark stru
 
 ## Calibration
 
-The benchmark, the Clear RCM post-mortem, scores **92**. That is the anchor, and it ships.
+The reference assessment in the orchestrator's
+`references/reference_assessment.md` scores **92**. That is the anchor, and it ships.
 
 It is not a 96, and pretending otherwise would make this rubric unusable. Two things hold
-it down, and both are real. Principle 1 is two sentences that would be true of any company,
-which caps principle fidelity at 31. And no recommendation in it names a cost, a
-prerequisite, or a risk, which caps actionability at 13. A revision that gave Principle 1
-one company-specific paragraph and named what the recommendations cost would score 96.
+it down, and both are real. Principle 3 is two paragraphs that mostly restate the framing
+paragraph, which caps principle fidelity at 31. And only one recommendation names what it
+costs the owner, which caps actionability at 13. A revision that gave Principle 3 its own
+finding and named the cost of the other five moves would score 96.
 
 So: **92 is what a very good assessment looks like. 90 is the gate. 96 is available and
 nobody has hit it yet.** If your scoring of a strong draft lands below 88, check your
 reading against the known deviations before you deduct.
 
-The benchmark contains four things the voice rules flag. They are known, they are minor,
-and together they cost **one point, from voice**, not four:
+The reference contains a few things the voice rules flag. They are known, they are minor,
+and together they cost **one point, from voice**, not one each:
 
-- `leverages` in Principle 4 and `leveraging` in Principle 6. The verb form is on the cut
-  list. Flag both as advisory. "uses" is better. It does not move the gate.
-- `Not just about each client, but about each other.` in the differentiator paragraph.
-  Corrective negation by the letter of the rule, and it reads as speech. Leave it.
-- `The market is clearly there.` in Principle 6. An absolute about the reader's industry.
-  A real flag, and a new draft copying the pattern should soften it.
-- `When I've asked other fast growth founders...` in the differentiator paragraph. An
-  observation the author is entitled to make about his own conversations. It is
-  unquantified, and it is not a claim about the reader's business. **This is not
-  invention.** Invention is a fact the author does not have. A number is invention. An
-  unquantified observation about the author's own work is not.
+- "That is the finding the rest of this document keeps running into." A summary beat by the
+  letter of the rule, and it does real work orienting the reader. Leave it.
+- "A list you can act on." A short pinned fragment closing a paragraph. Flag it as advisory.
+  A new draft copying that rhythm should not.
+- "which is how you know it is real rather than something you believe about yourself."
+  Corrective negation, and it reads as speech. Leave it.
 
 Do not rediscover these every time. Flag them, note they are known, move on.
+
+**An unquantified observation the assessor is entitled to make about their own work is not
+invention.** Invention is a fact the assessor does not have. A number is invention. "What
+engineers keep telling you" repeated back from the intake is not.
 
 ---
 
@@ -85,18 +85,21 @@ because the author needs to know what else to fix in the same pass.
 3. **A claim about the reader's operations, staff or industry stated as an absolute** that
    the intake does not support. Test: could one exception disprove the sentence? Then it
    needs a hedge or it needs cutting.
-4. **Hermeticism, or any of the original principle names, is mentioned.**
+4. **The older tradition behind the seven laws, or any of its principle names, is
+   named.** The seven laws are presented as Mo's framework and the scaffold underneath
+   them is never surfaced to a reader. If you do not know what this refers to, you will
+   not trip it by accident.
 5. **A law applied to the wrong domain**, or arguing its finding in another law's imagery.
    The two tables below settle both.
 6. **A section ends on a manufactured quotable takeaway.** One test, and only this one:
-   *does the closing sentence add information, or only rhythm?* "This may be what Clear RCM
-   becomes known for" names a possible future outcome, which is information, and it passes.
-   "Clarity compounds" and "Push harder" add nothing the section did not already say, and
-   they fail.
+   *does the closing sentence add information, or only rhythm?* "That is worth knowing
+   deliberately rather than discovering" names a choice the owner has not yet made, which is
+   information, and it passes. "Clarity compounds" and "Push harder" add nothing the section
+   did not already say, and they fail.
 
    There is a second, harsher reading you may be tempted by: that any line which would
    transplant unchanged into another company's assessment is manufactured. Do not use it as
-   the hard fail. It condemns several closings in the benchmark itself. Use it as an
+   the hard fail. It condemns several closings in the reference itself. Use it as an
    advisory flag instead, worth one voice deduction when a closing is both transplantable
    and thin.
 7. **One of the seven sections is missing, or present as a heading with nothing assessed
@@ -231,7 +234,7 @@ intensifier, a banned word (compounds, the gap between, most people, business-se
 friction or noise, "land" as a verb, figurative quietly, "exactly" as an intensifier), a
 third-person reference to the reader ("the client", "the organization", "stakeholders").
 Using the company's actual name is not a third-person reference and never deducts; the
-benchmark says "Clear RCM" throughout.
+reference assessment names the company throughout.
 
 ### Structure and completeness: 10
 
@@ -273,8 +276,7 @@ they notice an em dash.
 4. **The diagram against the prose.** If a marketing garden figure is present, does it list the
    assets the prose names? An empty slot is fine when the prose says the slot is empty. Mismatches are common and they read as carelessness.
 5. **Named staff.** Every observation attached to a person's name should be one the owner
-   could show that person. This document gets forwarded. "Amanda finds the pattern of her
-   work therapeutic" is fine. A judgment about someone's competence is not.
+   could show that person. This document gets forwarded. "Rafa knows every parcel in the county by feel" is fine. A judgment about someone's competence is not.
 6. **What it costs.** Where a recommendation has a real cost, a legal exposure, or requires
    the owner to stop doing something, does the document say so? Recommendations that are
    all upside read as a pitch.

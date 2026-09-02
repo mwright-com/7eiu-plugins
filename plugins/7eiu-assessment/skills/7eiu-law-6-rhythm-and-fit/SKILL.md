@@ -122,7 +122,7 @@ Never name an AI product, company, or version number. Write "AI tools", "these t
 
 This law is where the question of what a market will still pay a person for gets decided, so handle it here and not in another section.
 
-The benchmark surfaced this as a finding about one market, and it stays a finding about one market. Write it when the intake hands it to you. When the owner tells you that competitors in their market are taking the person out of the customer-facing part, name what that leaves open for a company that keeps one: it can do the work efficiently and still put a person on the other end, on ground the others are walking away from. If nothing in the intake says the competition is automating the person away, there is no finding here to write.
+The reference assessment surfaced this as a finding about one market, and it stays a finding about one market. Write it when the intake hands it to you. When the owner tells you that competitors in their market are taking the person out of the customer-facing part, name what that leaves open for a company that keeps one: it can do the work efficiently and still put a person on the other end, on ground the others are walking away from. If nothing in the intake says the competition is automating the person away, there is no finding here to write.
 
 Write it as a positioning finding, not a sentimental one. The claim is not that people are nicer than machines. The claim is that a scarce thing gets priced higher, and the company holding it should know it is holding it. That means naming it, protecting the time it takes, and saying it out loud to the market rather than treating it as overhead that survived.
 
@@ -140,7 +140,7 @@ Open by handing the market knowledge back to the owner. They know their market a
 
 If the company has fit, open on the evidence of it, which is usually a small push that produced a large response. If the company does not have fit yet, open on the swings: how many they get a season, and how they are reading what comes back. If you genuinely could not tell from the intake, say that and write the section as a set of questions. `not observed` is an honest verdict and the framing paragraph can use it.
 
-This is the section where an outside reference is most likely to earn its place, because the assessor may know something about where the market is moving that the owner does not. If you cite something, it has to be real and findable, with a link, and used to make one narrow point. Hedge what you cannot verify, the way the benchmark does with "at least that's how they seem to present themselves". Never invent a source, a company, a founder, or a statistic. If you do not have a real one, make the point without it. A section with no citation is fine. A section with a fabricated one does not ship.
+This is the section where an outside reference is most likely to earn its place, because the assessor may know something about where the market is moving that the owner does not. If you cite something, it has to be real and findable, with a link, and used to make one narrow point. That means a market participant the assessor actually looked at, named as what it is, with a source the reader can open in a minute. Hedge what you cannot verify, in the sentence, the way the reference does with "I do not know your trade well enough to say". Never invent a source, a company, a founder, or a statistic. If you do not have a real one, make the point without it. A section with no citation is fine, and the reference assessment carries none. A section with a fabricated one does not ship.
 
 Vocabulary this law owns: rhythm, the swing, the arc, the kite, the wind, the tide, fit, the flickers, feeding the rhythm rather than fighting it. Use one image with weight rather than all of them lightly.
 
@@ -165,27 +165,27 @@ First person and second person. "I", "you". Hedge to what you actually learned. 
 
 ## Worked example
 
-The benchmark's PRINCIPLE 6 section read in full:
+The reference assessment's PRINCIPLE 6 section, in full. Verity Site Works is invented, and so is everyone in it.
 
-> For the sixth principle, this is where the meat of all of your past research lies, as well as in your intention to expand. What is going on with the market now, and where does Clear RCM fit in terms of AI is something I may be able to add to.
+> Two new firms in two years, both advertising drone and lidar capture, and you do not do drone work. Nobody at Verity is watching them.
 >
-> I discovered a pure AI play in Lassie AI. At least that's how they seem to present themselves. In the Andreesen-Horowitz interview with founders Steijn Pelle and Frédéric Renken (@a16z - https://www.youtube.com/watch?v=Fpg_8aiBxx4 ) they spoke about the need to first act as a black box - to manually do the work - THEN automate.
+> I am not going to tell you to buy a drone. I do not know your trade well enough to say whether that capture method suits the work you take, and you do. What I can say is that two competitors moving the same direction inside two years is a rhythm, and right now you will find out where it went from a bid sheet rather than from watching. The cost of watching is close to nothing.
 >
-> To your point, however, there is a level of soft touch that is worth the premium versus an AI-only solution. Although the healthcare industry is trying its best to automate customer handling, the company that can do this efficiently and still provide a human voice will have a clear advantage. The market is clearly there. Again, leveraging AI to monitor and evaluate trends like this is where you may see the most value. It may also lead to acquisition opportunities from failing AI-centric companies, as well as with individual operators as they build momentum.
-
-One note on the quote above. The firm is Andreessen Horowitz; the source document's spelling is reproduced here exactly as written, so do not carry it into a new document.
+> The harder question underneath: what does your market pay a person for, as against what it pays equipment for? Your differentiator is speed and a picked-up phone, both of which are human. If the trade is moving toward capture-as-commodity, the human half is where your premium lives, and that is worth knowing deliberately rather than discovering.
 
 What it is doing:
 
-- The first sentence gives the market knowledge back to the owner. The research is his, the expansion plan is his, and the assessor says so before adding anything.
-- "is something I may be able to add to" is the whole posture of the section in nine words. It offers a contribution, not a correction.
-- The outside reference is real. A named company, two named founders, a named interview, and a working link, all findable by the reader in a minute.
-- "At least that's how they seem to present themselves" is the hedge that keeps the claim honest. The assessor read their positioning and says exactly that, rather than asserting what the company is.
-- The reference is used for one narrow point and then dropped. Do the work manually first, then automate. It is not a survey of the market and it does not carry the argument alone.
-- "To your point, however" builds on something the owner already said. The premium on the soft touch was his observation, and the section extends it rather than introducing it as news.
-- The positioning claim is stated flat, with no sentiment attached. An industry automating customer handling leaves an opening for whoever can be efficient and still answer the phone.
-- The AI recommendation is described only by what it does, monitoring and evaluating trends, with no product named anywhere.
-- The closing sentence turns a market observation into two concrete openings, failing AI-centric companies and individual operators gaining momentum, and it ends there rather than on a summary line.
+- The opening two sentences are observation and nothing else. Two firms, two years, one capability the company does not have, and nobody watching. No adjective anywhere, and the reader can check every word of it against what he said.
+- "you do not do drone work" is the owner's own fact handed back rather than a charge against him. The finding is the not-watching, not the not-flying, and keeping those apart is what makes the section usable.
+- "I am not going to tell you to buy a drone" refuses the recommendation the reader is already bracing for. That refusal is what lets him read the next three sentences instead of defending himself through them.
+- "I do not know your trade well enough to say whether that capture method suits the work you take, and you do" puts the expertise back where it belongs in one clause. It costs the assessor nothing and it buys the rest of the document.
+- The law is used and never quoted. Two competitors moving the same direction inside two years gets called a rhythm, and the word carries the reading without a paragraph explaining the swing.
+- "you will find out where it went from a bid sheet rather than from watching" names the cost of the gap as something the owner has already lived through once, which is more persuasive than any argument for market research.
+- "The cost of watching is close to nothing" is the entire recommendation, sized to a nine-person firm. No hire, no budget cycle, nothing to buy, and it starts on a Tuesday.
+- The third paragraph moves up a level, from what competitors are buying to what the market pays a person for as against what it pays equipment for. That question belongs to this law and gets settled here rather than in another section.
+- The premium is tied to a differentiator already on the record, speed and a picked-up phone, so the positioning claim reads as a consequence of something he told the assessor rather than as news.
+- Nothing in it asserts which way the trade is going. "If the trade is moving toward capture-as-commodity" is the hedge, and the section ends on what is worth knowing rather than on a summary line.
+- No outside source appears anywhere, and the section is not weaker for it. The assessor had nothing real and findable to add on this market, so he added nothing.
 
 Now an illustration. **The company below is fictional, invented for this file, and must never be presented to a client as a real engagement.**
 
@@ -238,7 +238,7 @@ Before handing the block back, walk this list.
 5. Only Law 6's own images appear. Checked against the full table above, not from memory.
 6. The persistence-versus-stubbornness question is answered with evidence of what responded, not with encouragement to keep going or a suggestion to quit.
 7. Every claim about the market traces to a `[said]`, `[doc]` or `[observed]` entry, and everything else became a question in `gaps`.
-8. Any claim you cannot verify carries a hedge in the sentence, the way "at least that's how they seem to present themselves" does.
+8. Any claim you cannot verify carries a hedge in the sentence, the way "I do not know your trade well enough to say" does, and any expertise in the reader's trade that you do not have is declined out loud rather than faked.
 9. If the human-touch premium appears, it is written as positioning with a reason attached, and not as sentiment.
 10. Every recommendation can be started within a month, without a hire or a budget cycle.
 11. The section is as long as the material and no longer, two to four paragraphs, with nothing padded to match another section.
