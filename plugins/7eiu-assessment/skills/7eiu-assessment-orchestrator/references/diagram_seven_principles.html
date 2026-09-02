@@ -1,0 +1,113 @@
+<!doctype html>
+<!--
+  Seven-principles diagram. Always appears directly under the framing paragraph.
+
+  Substitute before rendering:
+    {{CLIENT}}    the client name, upper right
+    {{FOCUS}}     the focus law number, 1-7. That card gets the tint.
+
+  Render at 1300x760 with a headless browser, then place at full text width.
+  Caption it "7 Principles Diagram".
+-->
+<html>
+<head><meta charset="utf-8">
+<style>
+  :root {
+    --ink: #111417;
+    --grey: #8A9199;
+    --rule: #E3E6EA;
+    --blue: #1F5FBF;
+    --tint: #EDF3FC;
+    --ghost: #E8EBEF;
+  }
+  * { box-sizing: border-box; margin: 0; }
+  body {
+    font: 15px/1.4 Arial, Helvetica, sans-serif;
+    color: var(--ink);
+    background: #fff;
+    padding: 34px 38px;
+    width: 1300px;
+  }
+  .top { display: flex; justify-content: space-between; align-items: baseline; }
+  .top h1 { font-size: 21px; letter-spacing: .16em; font-weight: 700; }
+  .top .client { font-size: 15px; letter-spacing: .16em; color: var(--grey); font-weight: 700; }
+  hr { border: 0; border-top: 1px solid var(--rule); margin: 14px 0 22px; }
+
+  .frame { display: grid; grid-template-columns: 1fr 250px; gap: 26px; }
+
+  .grouplabel {
+    font-size: 13px; letter-spacing: .13em; font-weight: 700; margin-bottom: 12px;
+  }
+  .grouplabel span { color: var(--grey); font-weight: 400; letter-spacing: .04em; margin-left: 10px; }
+  .reflect .grouplabel { color: var(--blue); }
+
+  .row { display: grid; grid-template-columns: repeat(3, 1fr); gap: 18px; margin-bottom: 26px; }
+
+  .card {
+    position: relative; border: 1px solid var(--rule); border-radius: 3px;
+    padding: 16px 16px 34px; min-height: 132px; overflow: hidden;
+  }
+  .card .domain {
+    font-size: 12px; letter-spacing: .11em; color: var(--grey); font-weight: 700; margin-bottom: 9px;
+  }
+  .card .law { font-size: 19px; font-weight: 700; line-height: 1.22; }
+  .card .n {
+    position: absolute; right: 12px; bottom: -6px;
+    font-size: 46px; font-weight: 700; color: var(--ghost); line-height: 1;
+  }
+
+  .panel {
+    border: 1px solid var(--rule); border-radius: 3px; background: var(--tint);
+    padding: 18px 18px 34px; position: relative; height: 100%; overflow: hidden;
+  }
+  .panel .domain { font-size: 12px; letter-spacing: .11em; color: var(--blue); font-weight: 700; margin-bottom: 9px; }
+  .panel .law { font-size: 19px; font-weight: 700; line-height: 1.22; }
+  .panel .bar { width: 26px; height: 3px; background: var(--blue); margin-top: 12px; }
+  .panel .n { position: absolute; right: 14px; bottom: 0; font-size: 82px; font-weight: 700; color: #D6E2F5; line-height: 1; }
+
+  .focus { background: var(--tint); border-color: #C9DAF3; }
+  .focus .domain { color: var(--blue); }
+</style>
+</head>
+<body>
+  <div class="top">
+    <h1>THE SEVEN PRINCIPLES</h1>
+    <div class="client">{{CLIENT}}</div>
+  </div>
+  <hr>
+
+  <div class="frame">
+    <div>
+      <div class="grouplabel">MANIFESTING THOUGHT <span>Laws 1&ndash;3</span></div>
+      <div class="row">
+        <div class="card" data-law="1"><div class="domain">LEADERSHIP</div><div class="law">Intention and Action</div><div class="n">1</div></div>
+        <div class="card" data-law="2"><div class="domain">PROCESS</div><div class="law">Big and Small</div><div class="n">2</div></div>
+        <div class="card" data-law="3"><div class="domain">OPERATIONS</div><div class="law">Being Consistent</div><div class="n">3</div></div>
+      </div>
+
+      <div class="grouplabel">BUILDING RELATIONSHIPS <span>Laws 4&ndash;6</span></div>
+      <div class="row">
+        <div class="card" data-law="4"><div class="domain">MARKETING</div><div class="law">Active and Passive Marketing</div><div class="n">4</div></div>
+        <div class="card" data-law="5"><div class="domain">SUPPORT</div><div class="law">Wins and Losses</div><div class="n">5</div></div>
+        <div class="card" data-law="6"><div class="domain">RELATIONS</div><div class="law">Rhythm and Fit</div><div class="n">6</div></div>
+      </div>
+    </div>
+
+    <div class="reflect">
+      <div class="grouplabel">REFLECTION</div>
+      <div class="panel" data-law="7">
+        <div class="domain">EVALUATION</div>
+        <div class="law">Karma and Value</div>
+        <div class="bar"></div>
+        <div class="n">7</div>
+      </div>
+    </div>
+  </div>
+
+  <script>
+    var focus = "{{FOCUS}}";
+    var el = document.querySelector('[data-law="' + focus + '"]');
+    if (el && el.classList.contains('card')) { el.classList.add('focus'); }
+  </script>
+</body>
+</html>

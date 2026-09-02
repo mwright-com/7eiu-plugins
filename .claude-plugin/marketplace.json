@@ -1,0 +1,25 @@
+{
+  "name": "mwright-book",
+  "owner": {
+    "name": "Maurice Wright",
+    "email": "mo@mwright.com",
+    "url": "https://book.mwright.com"
+  },
+  "metadata": {
+    "description": "Tools that come with 7 Elemental, Immutable, Universal Truths.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "7eiu-assessment",
+      "source": "./plugins/7eiu-assessment",
+      "description": "Assess your business against the seven laws. Runs a guided interview, works each chapter in turn, and writes you a two-page read and a full assessment.",
+      "version": "1.0.0",
+      "author": { "name": "Maurice Wright", "email": "mo@mwright.com" },
+      "homepage": "https://book.mwright.com",
+      "license": "Proprietary",
+      "category": "business",
+      "keywords": ["business-assessment", "seven-principles", "small-business", "ai-readiness"]
+    }
+  ]
+}

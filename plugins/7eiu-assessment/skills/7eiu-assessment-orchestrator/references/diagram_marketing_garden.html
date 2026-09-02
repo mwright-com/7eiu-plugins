@@ -1,0 +1,118 @@
+<!doctype html>
+<!--
+  The marketing garden. Full-page figure under Principle 4, when Principle 4 carries the
+  leverage in the engagement.
+
+  Substitute before rendering:
+    {{ANCHOR}}   the asset the company already has, e.g. "The Clear RCM website"
+    {{LAW}}      the law in the client's terms, two or three sentences
+    {{A1}}..{{A6}}   the asset name for each slot
+    {{D1}}..{{D6}}   one line of what each asset is for
+    {{FOOT}}     the closing line, tying the assets back to what the tools make possible
+
+  The six slot names are fixed: PROOF, CAPTURE, DIAGNOSTIC, AUTHORITY, CADENCE, ACCESS.
+  The assets are chosen from what this company actually knows and already has.
+
+  Render at 1000x1180 with a headless browser. Place as a full-page figure.
+-->
+<html>
+<head><meta charset="utf-8">
+<style>
+  :root {
+    --ink: #111417;
+    --grey: #6E757D;
+    --rule: #E3E6EA;
+    --blue: #1F5FBF;
+    --tint: #F2F6FC;
+    --spine: #BFD3EF;
+  }
+  * { box-sizing: border-box; margin: 0; }
+  body {
+    font: 15px/1.45 Arial, Helvetica, sans-serif;
+    color: var(--ink); background: #fff;
+    width: 1000px; padding: 40px 44px;
+  }
+  .top { display: flex; justify-content: space-between; align-items: baseline; }
+  .top h1 { font-size: 22px; letter-spacing: .18em; font-weight: 700; }
+  .top .n { font-size: 15px; letter-spacing: .16em; color: var(--grey); font-weight: 700; }
+  hr { border: 0; border-top: 1px solid var(--rule); margin: 14px 0 26px; }
+
+  .anchor {
+    display: grid; grid-template-columns: 300px 1fr; gap: 30px;
+    background: var(--tint); border: 1px solid #DCE6F5; border-radius: 3px;
+    padding: 24px 26px; margin-bottom: 0;
+  }
+  .anchor h2 { font-size: 26px; font-weight: 700; line-height: 1.2; }
+  .anchor p { font-size: 15px; color: #2C3238; }
+
+  .stem { height: 30px; position: relative; }
+  .stem:after {
+    content: ""; position: absolute; left: 50%; top: 0; bottom: 0;
+    width: 1px; background: var(--spine);
+  }
+  .stem:before {
+    content: ""; position: absolute; left: 50%; top: -5px; width: 9px; height: 9px;
+    border-radius: 50%; background: var(--blue); transform: translateX(-4px);
+  }
+
+  .beds { position: relative; }
+  .beds:after {
+    content: ""; position: absolute; left: 50%; top: 0; bottom: 34px;
+    width: 1px; background: var(--spine);
+  }
+  .pair { display: grid; grid-template-columns: 1fr 44px 1fr; gap: 0; margin-bottom: 20px; }
+  .bed {
+    border: 1px solid var(--rule); border-left: 4px solid var(--blue);
+    border-radius: 2px; padding: 16px 18px; min-height: 118px;
+  }
+  .pair .right .bed { border-left: 4px solid var(--blue); }
+  .bed .slot { font-size: 12px; letter-spacing: .13em; color: var(--blue); font-weight: 700; margin-bottom: 7px; }
+  .bed .asset { font-size: 19px; font-weight: 700; line-height: 1.2; margin-bottom: 7px; }
+  .bed .use { font-size: 14px; color: #3A4148; }
+  .tie { position: relative; }
+  .tie:after {
+    content: ""; position: absolute; top: 52px; left: 0; right: 0; height: 1px; background: var(--spine);
+  }
+
+  .foot {
+    border-top: 1px solid var(--rule); margin-top: 12px; padding-top: 14px;
+    font-size: 14px; color: #2C3238;
+  }
+  .foot .sq { display: inline-block; width: 8px; height: 8px; background: var(--blue); margin-right: 9px; }
+</style>
+</head>
+<body>
+  <div class="top">
+    <h1>THE MARKETING GARDEN</h1>
+    <div class="n">PRINCIPLE 4</div>
+  </div>
+  <hr>
+
+  <div class="anchor">
+    <h2>{{ANCHOR}}</h2>
+    <p>{{LAW}}</p>
+  </div>
+
+  <div class="stem"></div>
+
+  <div class="beds">
+    <div class="pair">
+      <div class="left"><div class="bed"><div class="slot">PROOF</div><div class="asset">{{A1}}</div><div class="use">{{D1}}</div></div></div>
+      <div class="tie"></div>
+      <div class="right"><div class="bed"><div class="slot">CAPTURE</div><div class="asset">{{A2}}</div><div class="use">{{D2}}</div></div></div>
+    </div>
+    <div class="pair">
+      <div class="left"><div class="bed"><div class="slot">DIAGNOSTIC</div><div class="asset">{{A3}}</div><div class="use">{{D3}}</div></div></div>
+      <div class="tie"></div>
+      <div class="right"><div class="bed"><div class="slot">AUTHORITY</div><div class="asset">{{A4}}</div><div class="use">{{D4}}</div></div></div>
+    </div>
+    <div class="pair">
+      <div class="left"><div class="bed"><div class="slot">CADENCE</div><div class="asset">{{A5}}</div><div class="use">{{D5}}</div></div></div>
+      <div class="tie"></div>
+      <div class="right"><div class="bed"><div class="slot">ACCESS</div><div class="asset">{{A6}}</div><div class="use">{{D6}}</div></div></div>
+    </div>
+  </div>
+
+  <div class="foot"><span class="sq"></span>{{FOOT}}</div>
+</body>
+</html>

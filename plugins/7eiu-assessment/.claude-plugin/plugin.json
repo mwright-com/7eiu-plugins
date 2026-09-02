@@ -1,0 +1,22 @@
+{
+  "name": "7eiu-assessment",
+  "version": "1.0.0",
+  "description": "An agentic team that assesses your business chapter by chapter against the seven laws in 7 Elemental, Immutable, Universal Truths, and writes the assessment.",
+  "author": {
+    "name": "Maurice Wright",
+    "email": "mo@mwright.com",
+    "url": "https://book.mwright.com"
+  },
+  "homepage": "https://book.mwright.com",
+  "license": "Proprietary",
+  "keywords": [
+    "business-assessment",
+    "seven-principles",
+    "7eiu",
+    "small-business",
+    "ai-readiness",
+    "marketing-garden",
+    "product-market-fit",
+    "maurice-wright"
+  ]
+}
