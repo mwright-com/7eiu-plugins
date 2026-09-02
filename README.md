@@ -37,7 +37,7 @@ tab first.
 **On the command line:**
 
 ```
-/plugin marketplace add mwrightinc/7eiu-plugins
+/plugin marketplace add mwright-com/7eiu-plugins
 /plugin install 7eiu-assessment
 ```
 

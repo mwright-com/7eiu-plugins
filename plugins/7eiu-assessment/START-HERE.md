@@ -70,7 +70,7 @@ In Cowork, open the Cowork tab first, then Customize.
 ### If you use the command line
 
 ```
-/plugin marketplace add mwrightinc/7eiu-plugins
+/plugin marketplace add mwright-com/7eiu-plugins
 /plugin install 7eiu-assessment
 ```
 
