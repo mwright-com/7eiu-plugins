@@ -30,16 +30,27 @@ Twenty minutes of conversation gets the short one. About an hour gets the long o
 
 ### Install
 
-**In a browser or the desktop app:** Customize → Plugins → **+** → Add from a repository →
-paste this repository's address. Then install `7eiu-assessment`. In Cowork, open the Cowork
-tab first.
+**In the Claude app or on claude.ai** (most people, no terminal):
 
-**On the command line:**
+1. **Customize** in the left sidebar.
+2. Click the **Plugins** icon in the panel's left icon strip. It is the plug, fourth
+   one down, and it is easy to miss: Skills and Plugins are separate panels, and the
+   Skills one has no repository option at all.
+3. **Add** → **Add marketplace** → **Add from a repository**.
+4. Type `mwright-com/7eiu-plugins`, click the **Use "mwright-com/7eiu-plugins"** suggestion,
+   then **Sync**.
+5. Click **Add** beside **7eiu assessment**.
+
+In Cowork, open the Cowork tab first.
+
+**In Claude Code**, the terminal tool:
 
 ```
 /plugin marketplace add mwright-com/7eiu-plugins
 /plugin install 7eiu-assessment
 ```
+
+Those two lines are Claude Code only. They do nothing typed into a chat window.
 
 ### Use
 

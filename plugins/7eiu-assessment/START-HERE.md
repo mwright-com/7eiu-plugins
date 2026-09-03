@@ -59,20 +59,34 @@ Run principle 6 on us. Why is this so much work for so little return?
 
 ## Installing it
 
-### If you use Claude in a browser or the desktop app
+### In the Claude app or on claude.ai
 
-Open **Customize** in the sidebar, go to **Plugins**, click **+**, choose **Add from a
-repository**, and paste this repository's address. Then install `7eiu-assessment` from the
-list.
+This is the path for most people. No terminal.
+
+1. Click **Customize** in the left sidebar.
+2. In the narrow icon strip on the left of the panel, click the **Plugins** icon (the plug,
+   fourth one down). This is easy to miss: Skills and Plugins are separate panels, and the
+   Skills panel has no repository option at all.
+3. Top right, click **Add**, then **Add marketplace**.
+4. Choose **Add from a repository**.
+5. Type `mwright-com/7eiu-plugins` in the box, then click the **Use "mwright-com/7eiu-plugins"**
+   line that appears below it.
+6. Click **Sync**.
+7. **7eiu assessment** now appears in the list. Click **Add** beside it.
+
+You should see "7eiu assessment is installed and ready to use."
 
 In Cowork, open the Cowork tab first, then Customize.
 
-### If you use the command line
+### In Claude Code (the terminal tool)
 
 ```
 /plugin marketplace add mwright-com/7eiu-plugins
 /plugin install 7eiu-assessment
 ```
+
+**These two lines only work in Claude Code.** Typing them into a normal chat window does
+nothing. If you are not working in a terminal, use the app steps above.
 
 ### Either way
 
